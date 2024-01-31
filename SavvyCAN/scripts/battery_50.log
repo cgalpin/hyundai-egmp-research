@@ -1,0 +1,38 @@
+4014(ioniq5_battery_uds_dump.js): Compiling script...
+4015(ioniq5_battery_uds_dump.js): Hyundai/Kia e-GMP Battery data dump
+4278(ioniq5_battery_uds_dump.js): Soc: 29.5% Lv: 12.1V Hv: 648.1V Current: 0A Max regen: 0Kw Max pwr: 0Kw Ign: 0  inv_v: 0 iso_r: 294kOhm
+4278(ioniq5_battery_uds_dump.js):   min/max cell voltage: 3.58/3.6V (84/3) cum energy charge/discharge 24.4/11.4Ah cum current charge/discharge 25.7/18.1Ah
+4278(ioniq5_battery_uds_dump.js):   op time: 3591 min_temp: 50F max_temp: 50F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 50F temp4: 50F
+4278(ioniq5_battery_uds_dump.js):   Relay: 0 RPM 1: 1525 RPM 2: 0 batt fan mod: 0 batt fan speed: 0
+22091(ioniq5_battery_uds_dump.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F A/C1: 0x 0 A/C2: 0x 0 A/C13 0x 0 batt manage mode: 0x0
+34657(ioniq5_battery_uds_dump.js): cell voltages (v):
+
+185802(ioniq5_battery_uds_dump.js): 001: 3.58    002: 3.60    003: 3.60    004: 3.60    005: 3.60    006: 3.60    007: 3.60    008: 3.60    
+185802(ioniq5_battery_uds_dump.js): 009: 3.60    010: 3.60    011: 3.60    012: 3.58    013: 3.58    014: 3.58    015: 3.60    016: 3.60    
+185802(ioniq5_battery_uds_dump.js): 017: 3.60    018: 3.60    019: 3.60    020: 3.60    021: 3.60    022: 3.60    023: 3.60    024: 3.60    
+185802(ioniq5_battery_uds_dump.js): 025: 3.60    026: 3.60    027: 3.60    028: 3.60    029: 3.60    030: 3.60    031: 3.60    032: 3.60    
+
+47521(ioniq5_battery_uds_dump.js): 033: 3.60    034: 3.60    035: 3.60    036: 3.58    037: 3.60    038: 3.60    039: 3.58    040: 3.60    
+47521(ioniq5_battery_uds_dump.js): 041: 3.60    042: 3.60    043: 3.60    044: 3.60    045: 3.60    046: 3.60    047: 3.58    048: 3.60    
+47521(ioniq5_battery_uds_dump.js): 049: 3.60    050: 3.60    051: 3.60    052: 3.60    053: 3.60    054: 3.60    055: 3.58    056: 3.60    
+47521(ioniq5_battery_uds_dump.js): 057: 3.60    058: 3.60    059: 3.60    060: 3.58    061: 3.60    062: 3.60    063: 3.60    064: 3.60    
+
+190087(ioniq5_battery_uds_dump.js): 065: 3.58    066: 3.60    067: 3.60    068: 3.60    069: 3.60    070: 3.60    071: 3.60    072: 3.60    
+190087(ioniq5_battery_uds_dump.js): 073: 3.60    074: 3.60    075: 3.60    076: 3.60    077: 3.60    078: 3.60    079: 3.60    080: 3.60    
+190088(ioniq5_battery_uds_dump.js): 081: 3.58    082: 3.60    083: 3.60    084: 3.58    085: 3.60    086: 3.60    087: 3.60    088: 3.60    
+190088(ioniq5_battery_uds_dump.js): 089: 3.58    090: 3.60    091: 3.60    092: 3.60    093: 3.60    094: 3.60    095: 3.60    096: 3.60    
+
+64241(ioniq5_battery_uds_dump.js): 097: 3.60    098: 3.58    099: 3.60    100: 3.58    101: 3.60    102: 3.60    103: 3.60    104: 3.60    
+64242(ioniq5_battery_uds_dump.js): 105: 3.60    106: 3.60    107: 3.60    108: 3.60    109: 3.60    110: 3.60    111: 3.60    112: 3.60    
+64242(ioniq5_battery_uds_dump.js): 113: 3.60    114: 3.60    115: 3.60    116: 3.60    117: 3.60    118: 3.60    119: 3.60    120: 3.60    
+64242(ioniq5_battery_uds_dump.js): 121: 3.58    122: 3.60    123: 3.60    124: 3.60    125: 3.60    126: 3.60    127: 3.60    128: 3.60    
+
+34657(ioniq5_battery_uds_dump.js): 129: 3.60    130: 3.60    131: 3.58    132: 3.60    133: 3.60    134: 3.60    135: 3.60    136: 3.60    
+34657(ioniq5_battery_uds_dump.js): 137: 3.60    138: 3.60    139: 3.60    140: 3.60    141: 3.60    142: 3.58    143: 3.60    144: 3.60    
+34657(ioniq5_battery_uds_dump.js): 145: 3.58    146: 3.60    147: 3.60    148: 3.60    149: 3.60    150: 3.60    151: 3.58    152: 3.58    
+34657(ioniq5_battery_uds_dump.js): 153: 3.58    154: 3.60    155: 3.58    156: 3.60    157: 3.60    158: 3.60    159: 3.60    160: 3.60    
+
+68005(ioniq5_battery_uds_dump.js): 161: 3.60    162: 3.60    163: 3.60    164: 3.60    165: 3.60    166: 3.60    167: 3.60    168: 3.60    
+68005(ioniq5_battery_uds_dump.js): 169: 3.60    170: 3.60    171: 3.60    172: 3.60    173: 3.60    174: 3.60    175: 3.60    176: 3.60    
+68005(ioniq5_battery_uds_dump.js): 177: 3.58    178: 3.60    179: 3.60    180: 3.58    181: 0.02    182: 0    183: 0    184: 0    
+68005(ioniq5_battery_uds_dump.js): 185: 0    186: 0.02    187: 0    188: 0.02    189: 0    190: 0.08    191: 0.08    192: 0    

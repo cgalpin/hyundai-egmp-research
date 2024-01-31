@@ -101,15 +101,17 @@ const save_cell_voltages = (data, dataOffset, cellOffset, cnt) => {
 
 const logCellVoltages = (start, end) => {
     //host.log(cellVoltages)
+    host.log('cell voltages (v):\n')
     let out = ''
     for (let i=start-1; i < end; i++) { // 180 on 72.6kWh
         const o = i + 1
-        out += o.toString().padStart(3, '0') + ": " + cellVoltages[i] + "    "
+        out += o.toString().padStart(3, '0') + ": " + cellVoltages[i].toString().padEnd(4, '0') + "    "
         if ( o%8 == 0 ) {
-            out += "\n"
+            host.log(out)
+            out = ''
         }
     }
-    host.log("cell voltages (v):\n" + out)
+   // host.log("cell voltages (v):\n" + out)
 }
 
 /*
@@ -151,7 +153,7 @@ const dump_10B = (data) => {
     save_cell_voltages(data, 7, 128, 32)
     logCellVoltages(129, 160)
 }
-// contains cell 161-180 voltages starting at data[7] //20 or 32 if covers 77.4kwh as well
+// contains cell 161-192 voltages starting at data[7]
 const dump_10C = (data) => {
     //const out = dump_cell_voltages(data, 7, 160, 32)
     //host.log("cell voltages (v):\n" + out)
@@ -207,7 +209,7 @@ function gotUDSMessage(bus, id, service, subFunc, len, data)
 {
     received =1;
     var data_id = data[1]*256+data[2];
-    host.log("bus=" + bus + " id=" + id + " service=" + service + " subFunc=" + subFunc + " len= " + len + " data_id=0x" + data_id.toString(16))
+    //host.log("bus=" + bus + " id=" + id + " service=" + service + " subFunc=" + subFunc + " len= " + len + " data_id=0x" + data_id.toString(16))
     if (data_id==0x101) {
         dump_101(data)
     } else if (data_id==0x102) {
@@ -235,17 +237,19 @@ function gotUDSMessage(bus, id, service, subFunc, len, data)
 function tick()
 {
     if (enable_uds == 1  &&  received ==1) {
-        uds.sendUDS(0, 0x7e4, 0x22, 2,id, 0, 0);
-        received = 0;
-        id +=1;
+        uds.sendUDS(0, 0x7e4, 0x22, 2, id, 0, 0)
+        received = 0
+        id +=1
 
         if (id >0x10C) { // gets up to 0x010C before repeating
             id=0x101
         }
     }
+
+    // at 10ms tick intervaal, this triggers the sendUDS every second
     counter +=1;
     if (counter >100) {
-        received =1;
-        counter=0;
+        received =1
+        counter=0
     }
 }

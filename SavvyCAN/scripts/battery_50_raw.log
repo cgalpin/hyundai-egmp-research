@@ -1,0 +1,310 @@
+4014(ioniq5_battery_uds_dump.js): Compiling script...
+4015(ioniq5_battery_uds_dump.js): Hyundai/Kia e-GMP Battery data dump
+4278(ioniq5_battery_uds_dump.js): Soc: 29.5% Lv: 12.1V Hv: 648.1V Current: 0A Max regen: 0Kw Max pwr: 0Kw Ign: 0  inv_v: 0 iso_r: 294kOhm
+4278(ioniq5_battery_uds_dump.js):   min/max cell voltage: 3.58/3.6V (84/3) cum energy charge/discharge 24.4/11.4Ah cum current charge/discharge 25.7/18.1Ah
+4278(ioniq5_battery_uds_dump.js):   op time: 3591 min_temp: 50F max_temp: 50F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 50F temp4: 50F
+4278(ioniq5_battery_uds_dump.js):   Relay: 0 RPM 1: 1525 RPM 2: 0 batt fan mod: 0 batt fan speed: 0
+22091(ioniq5_battery_uds_dump.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F A/C1: 0x 0 A/C2: 0x 0 A/C13 0x 0 batt manage mode: 0x0
+34657(ioniq5_battery_uds_dump.js): cell voltages (v):
+
+34657(ioniq5_battery_uds_dump.js): 129: 3.6    130: 3.6    131: 3.58    132: 3.6    133: 3.6    134: 3.6    135: 3.6    136: 3.6    
+34657(ioniq5_battery_uds_dump.js): 137: 3.6    138: 3.6    139: 3.6    140: 3.6    141: 3.6    142: 3.58    143: 3.6    144: 3.6    
+34657(ioniq5_battery_uds_dump.js): 145: 3.58    146: 3.6    147: 3.6    148: 3.6    149: 3.6    150: 3.6    151: 3.58    152: 3.58    
+34657(ioniq5_battery_uds_dump.js): 153: 3.58    154: 3.6    155: 3.58    156: 3.6    157: 3.6    158: 3.6    159: 3.6    160: 3.6    
+47519(ioniq5_battery_uds_dump.js): cell voltages (v):
+
+47521(ioniq5_battery_uds_dump.js): 033: 3.6    034: 3.6    035: 3.6    036: 3.58    037: 3.6    038: 3.6    039: 3.58    040: 3.6    
+47521(ioniq5_battery_uds_dump.js): 041: 3.6    042: 3.6    043: 3.6    044: 3.6    045: 3.6    046: 3.6    047: 3.58    048: 3.6    
+47521(ioniq5_battery_uds_dump.js): 049: 3.6    050: 3.6    051: 3.6    052: 3.6    053: 3.6    054: 3.6    055: 3.58    056: 3.6    
+47521(ioniq5_battery_uds_dump.js): 057: 3.6    058: 3.6    059: 3.6    060: 3.58    061: 3.6    062: 3.6    063: 3.6    064: 3.6    
+64241(ioniq5_battery_uds_dump.js): cell voltages (v):
+
+64241(ioniq5_battery_uds_dump.js): 097: 3.6    098: 3.58    099: 3.6    100: 3.58    101: 3.6    102: 3.6    103: 3.6    104: 3.6    
+64242(ioniq5_battery_uds_dump.js): 105: 3.6    106: 3.6    107: 3.6    108: 3.6    109: 3.6    110: 3.6    111: 3.6    112: 3.6    
+64242(ioniq5_battery_uds_dump.js): 113: 3.6    114: 3.6    115: 3.6    116: 3.6    117: 3.6    118: 3.6    119: 3.6    120: 3.6    
+64242(ioniq5_battery_uds_dump.js): 121: 3.58    122: 3.6    123: 3.6    124: 3.6    125: 3.6    126: 3.6    127: 3.6    128: 3.6    
+68005(ioniq5_battery_uds_dump.js): cell voltages (v):
+
+68005(ioniq5_battery_uds_dump.js): 161: 3.6    162: 3.6    163: 3.6    164: 3.6    165: 3.6    166: 3.6    167: 3.6    168: 3.6    
+68005(ioniq5_battery_uds_dump.js): 169: 3.6    170: 3.6    171: 3.6    172: 3.6    173: 3.6    174: 3.6    175: 3.6    176: 3.6    
+68005(ioniq5_battery_uds_dump.js): 177: 3.58    178: 3.6    179: 3.6    180: 3.58    181: 0.02    182: 0    183: 0    184: 0    
+68005(ioniq5_battery_uds_dump.js): 185: 0    186: 0.02    187: 0    188: 0.02    189: 0    190: 0.08    191: 0.08    192: 0    
+76461(ioniq5_battery_uds_dump.js): cell voltages (v):
+
+76462(ioniq5_battery_uds_dump.js): 033: 3.6    034: 3.6    035: 3.6    036: 3.6    037: 3.58    038: 3.6    039: 3.58    040: 3.6    
+76462(ioniq5_battery_uds_dump.js): 041: 3.6    042: 3.6    043: 3.6    044: 3.6    045: 3.6    046: 3.6    047: 3.58    048: 3.58    
+76462(ioniq5_battery_uds_dump.js): 049: 3.6    050: 3.6    051: 3.6    052: 3.6    053: 3.6    054: 3.6    055: 3.6    056: 3.6    
+76462(ioniq5_battery_uds_dump.js): 057: 3.6    058: 3.6    059: 3.6    060: 3.58    061: 3.6    062: 3.6    063: 3.6    064: 3.6    
+101570(ioniq5_battery_uds_dump.js): cell voltages (v):
+
+101570(ioniq5_battery_uds_dump.js): 161: 3.6    162: 3.6    163: 3.6    164: 3.6    165: 3.6    166: 3.6    167: 3.6    168: 3.6    
+101570(ioniq5_battery_uds_dump.js): 169: 3.6    170: 3.6    171: 3.6    172: 3.6    173: 3.6    174: 3.6    175: 3.6    176: 3.6    
+101570(ioniq5_battery_uds_dump.js): 177: 3.58    178: 3.6    179: 3.6    180: 3.6    181: 0.02    182: 0    183: 0    184: 0    
+101571(ioniq5_battery_uds_dump.js): 185: 0    186: 0.02    187: 0    188: 0.02    189: 0    190: 0.08    191: 0.08    192: 0    
+122529(ioniq5_battery_uds_dump.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F A/C1: 0x 0 A/C2: 0x 0 A/C13 0x 0 batt manage mode: 0x0
+130464(ioniq5_battery_uds_dump.js): cell voltages (v):
+
+130465(ioniq5_battery_uds_dump.js): 097: 3.6    098: 3.58    099: 3.6    100: 3.58    101: 3.6    102: 3.6    103: 3.6    104: 3.6    
+130465(ioniq5_battery_uds_dump.js): 105: 3.6    106: 3.6    107: 3.6    108: 3.6    109: 3.6    110: 3.58    111: 3.6    112: 3.6    
+130465(ioniq5_battery_uds_dump.js): 113: 3.6    114: 3.6    115: 3.6    116: 3.6    117: 3.6    118: 3.6    119: 3.6    120: 3.6    
+130465(ioniq5_battery_uds_dump.js): 121: 3.58    122: 3.6    123: 3.6    124: 3.6    125: 3.6    126: 3.6    127: 3.6    128: 3.6    
+160529(ioniq5_battery_uds_dump.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F A/C1: 0x 0 A/C2: 0x 0 A/C13 0x 0 batt manage mode: 0x0
+181716(ioniq5_battery_uds_dump.js): cell voltages (v):
+
+181716(ioniq5_battery_uds_dump.js): 161: 3.6    162: 3.6    163: 3.6    164: 3.6    165: 3.6    166: 3.6    167: 3.6    168: 3.6    
+181716(ioniq5_battery_uds_dump.js): 169: 3.6    170: 3.6    171: 3.6    172: 3.6    173: 3.6    174: 3.6    175: 3.6    176: 3.6    
+181716(ioniq5_battery_uds_dump.js): 177: 3.58    178: 3.6    179: 3.6    180: 3.6    181: 0.02    182: 0    183: 0    184: 0    
+181716(ioniq5_battery_uds_dump.js): 185: 0    186: 0.02    187: 0    188: 0.02    189: 0    190: 0.08    191: 0.08    192: 0    
+185801(ioniq5_battery_uds_dump.js): cell voltages (v):
+
+185802(ioniq5_battery_uds_dump.js): 001: 3.58    002: 3.6    003: 3.6    004: 3.6    005: 3.6    006: 3.6    007: 3.6    008: 3.6    
+185802(ioniq5_battery_uds_dump.js): 009: 3.6    010: 3.6    011: 3.6    012: 3.58    013: 3.58    014: 3.58    015: 3.6    016: 3.6    
+185802(ioniq5_battery_uds_dump.js): 017: 3.6    018: 3.6    019: 3.6    020: 3.6    021: 3.6    022: 3.6    023: 3.6    024: 3.6    
+185802(ioniq5_battery_uds_dump.js): 025: 3.6    026: 3.6    027: 3.6    028: 3.6    029: 3.6    030: 3.6    031: 3.6    032: 3.6    
+190087(ioniq5_battery_uds_dump.js): cell voltages (v):
+
+190087(ioniq5_battery_uds_dump.js): 065: 3.58    066: 3.6    067: 3.6    068: 3.6    069: 3.6    070: 3.6    071: 3.6    072: 3.6    
+190087(ioniq5_battery_uds_dump.js): 073: 3.6    074: 3.6    075: 3.6    076: 3.6    077: 3.6    078: 3.6    079: 3.6    080: 3.6    
+190088(ioniq5_battery_uds_dump.js): 081: 3.58    082: 3.6    083: 3.6    084: 3.58    085: 3.6    086: 3.6    087: 3.6    088: 3.6    
+190088(ioniq5_battery_uds_dump.js): 089: 3.58    090: 3.6    091: 3.6    092: 3.6    093: 3.6    094: 3.6    095: 3.6    096: 3.6    
+227836(ioniq5_battery_uds_dump.js): cell voltages (v):
+
+227836(ioniq5_battery_uds_dump.js): 033: 3.6    034: 3.6    035: 3.6    036: 3.58    037: 3.6    038: 3.6    039: 3.58    040: 3.6    
+227836(ioniq5_battery_uds_dump.js): 041: 3.6    042: 3.6    043: 3.6    044: 3.6    045: 3.6    046: 3.6    047: 3.58    048: 3.6    
+227836(ioniq5_battery_uds_dump.js): 049: 3.6    050: 3.6    051: 3.6    052: 3.6    053: 3.6    054: 3.6    055: 3.6    056: 3.6    
+227836(ioniq5_battery_uds_dump.js): 057: 3.6    058: 3.6    059: 3.6    060: 3.58    061: 3.6    062: 3.58    063: 3.6    064: 3.6    
+252195(ioniq5_battery_uds_dump.js): cell voltages (v):
+
+252195(ioniq5_battery_uds_dump.js): 161: 3.6    162: 3.6    163: 3.6    164: 3.6    165: 3.6    166: 3.6    167: 3.6    168: 3.6    
+252196(ioniq5_battery_uds_dump.js): 169: 3.6    170: 3.6    171: 3.6    172: 3.6    173: 3.6    174: 3.6    175: 3.6    176: 3.6    
+252196(ioniq5_battery_uds_dump.js): 177: 3.58    178: 3.6    179: 3.6    180: 3.6    181: 0.02    182: 0    183: 0    184: 0    
+252196(ioniq5_battery_uds_dump.js): 185: 0    186: 0.02    187: 0    188: 0.02    189: 0    190: 0.08    191: 0.08    192: 0    
+256139(ioniq5_battery_uds_dump.js): cell voltages (v):
+
+256139(ioniq5_battery_uds_dump.js): 001: 3.58    002: 3.6    003: 3.6    004: 3.6    005: 3.6    006: 3.6    007: 3.6    008: 3.6    
+256139(ioniq5_battery_uds_dump.js): 009: 3.6    010: 3.6    011: 3.6    012: 3.58    013: 3.58    014: 3.58    015: 3.6    016: 3.6    
+256139(ioniq5_battery_uds_dump.js): 017: 3.6    018: 3.6    019: 3.6    020: 3.6    021: 3.6    022: 3.6    023: 3.6    024: 3.6    
+256139(ioniq5_battery_uds_dump.js): 025: 3.6    026: 3.6    027: 3.6    028: 3.6    029: 3.6    030: 3.6    031: 3.6    032: 3.6    
+256328(ioniq5_battery_uds_dump.js): cell voltages (v):
+
+256329(ioniq5_battery_uds_dump.js): 033: 3.6    034: 3.6    035: 3.6    036: 3.58    037: 3.6    038: 3.6    039: 3.58    040: 3.6    
+256329(ioniq5_battery_uds_dump.js): 041: 3.6    042: 3.6    043: 3.6    044: 3.6    045: 3.6    046: 3.6    047: 3.58    048: 3.58    
+256329(ioniq5_battery_uds_dump.js): 049: 3.6    050: 3.6    051: 3.6    052: 3.6    053: 3.6    054: 3.6    055: 3.6    056: 3.6    
+256329(ioniq5_battery_uds_dump.js): 057: 3.6    058: 3.6    059: 3.6    060: 3.58    061: 3.6    062: 3.58    063: 3.6    064: 3.6    
+286622(ioniq5_battery_uds_dump.js): cell voltages (v):
+
+286623(ioniq5_battery_uds_dump.js): 161: 3.6    162: 3.6    163: 3.6    164: 3.6    165: 3.6    166: 3.6    167: 3.6    168: 3.6    
+286623(ioniq5_battery_uds_dump.js): 169: 3.58    170: 3.6    171: 3.6    172: 3.6    173: 3.6    174: 3.6    175: 3.6    176: 3.6    
+286623(ioniq5_battery_uds_dump.js): 177: 3.58    178: 3.6    179: 3.6    180: 3.58    181: 0.02    182: 0    183: 0    184: 0    
+286623(ioniq5_battery_uds_dump.js): 185: 0    186: 0.02    187: 0    188: 0.02    189: 0    190: 0.08    191: 0.08    192: 0    
+324867(ioniq5_battery_uds_dump.js): cell voltages (v):
+
+324867(ioniq5_battery_uds_dump.js): 097: 3.6    098: 3.58    099: 3.6    100: 3.58    101: 3.6    102: 3.6    103: 3.6    104: 3.6    
+324867(ioniq5_battery_uds_dump.js): 105: 3.6    106: 3.6    107: 3.6    108: 3.6    109: 3.6    110: 3.58    111: 3.6    112: 3.6    
+324867(ioniq5_battery_uds_dump.js): 113: 3.6    114: 3.6    115: 3.6    116: 3.6    117: 3.6    118: 3.6    119: 3.6    120: 3.6    
+324867(ioniq5_battery_uds_dump.js): 121: 3.58    122: 3.6    123: 3.6    124: 3.6    125: 3.6    126: 3.6    127: 3.6    128: 3.6    
+332847(ioniq5_battery_uds_dump.js): Soc: 29.5% Lv: 12V Hv: 648V Current: 0A Max regen: 0Kw Max pwr: 0Kw Ign: 0  inv_v: 0 iso_r: 294kOhm
+332847(ioniq5_battery_uds_dump.js):   min/max cell voltage: 3.58/3.6V (84/3) cum energy charge/discharge 24.4/11.4Ah cum current charge/discharge 25.7/18.1Ah
+332847(ioniq5_battery_uds_dump.js):   op time: 3428 min_temp: 50F max_temp: 50F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 50F temp4: 50F
+332847(ioniq5_battery_uds_dump.js):   Relay: 0 RPM 1: 1525 RPM 2: 0 batt fan mod: 0 batt fan speed: 0
+340398(ioniq5_battery_uds_dump.js): cell voltages (v):
+
+340398(ioniq5_battery_uds_dump.js): 065: 3.58    066: 3.6    067: 3.58    068: 3.58    069: 3.6    070: 3.6    071: 3.6    072: 3.6    
+340398(ioniq5_battery_uds_dump.js): 073: 3.6    074: 3.6    075: 3.6    076: 3.6    077: 3.6    078: 3.6    079: 3.6    080: 3.6    
+340399(ioniq5_battery_uds_dump.js): 081: 3.58    082: 3.6    083: 3.6    084: 3.58    085: 3.6    086: 3.6    087: 3.6    088: 3.6    
+340399(ioniq5_battery_uds_dump.js): 089: 3.58    090: 3.6    091: 3.58    092: 3.6    093: 3.6    094: 3.6    095: 3.6    096: 3.6    
+365223(ioniq5_battery_uds_dump.js): cell voltages (v):
+
+365224(ioniq5_battery_uds_dump.js): 161: 3.6    162: 3.6    163: 3.6    164: 3.6    165: 3.6    166: 3.6    167: 3.6    168: 3.6    
+365224(ioniq5_battery_uds_dump.js): 169: 3.6    170: 3.6    171: 3.6    172: 3.6    173: 3.6    174: 3.6    175: 3.6    176: 3.6    
+365224(ioniq5_battery_uds_dump.js): 177: 3.58    178: 3.6    179: 3.6    180: 3.58    181: 0.02    182: 0    183: 0    184: 0    
+365224(ioniq5_battery_uds_dump.js): 185: 0    186: 0.02    187: 0    188: 0.02    189: 0    190: 0.08    191: 0.08    192: 0    
+385283(ioniq5_battery_uds_dump.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F A/C1: 0x 0 A/C2: 0x 0 A/C13 0x 0 batt manage mode: 0x0
+394370(ioniq5_battery_uds_dump.js): cell voltages (v):
+
+394370(ioniq5_battery_uds_dump.js): 097: 3.6    098: 3.58    099: 3.6    100: 3.58    101: 3.6    102: 3.6    103: 3.6    104: 3.6    
+394370(ioniq5_battery_uds_dump.js): 105: 3.6    106: 3.6    107: 3.6    108: 3.6    109: 3.6    110: 3.58    111: 3.6    112: 3.6    
+394370(ioniq5_battery_uds_dump.js): 113: 3.6    114: 3.58    115: 3.6    116: 3.6    117: 3.6    118: 3.6    119: 3.6    120: 3.6    
+394370(ioniq5_battery_uds_dump.js): 121: 3.58    122: 3.6    123: 3.6    124: 3.6    125: 3.6    126: 3.6    127: 3.6    128: 3.6    
+406863(ioniq5_battery_uds_dump.js): cell voltages (v):
+
+406863(ioniq5_battery_uds_dump.js): 001: 3.6    002: 3.58    003: 3.6    004: 3.6    005: 3.6    006: 3.6    007: 3.6    008: 3.6    
+406863(ioniq5_battery_uds_dump.js): 009: 3.6    010: 3.6    011: 3.6    012: 3.58    013: 3.58    014: 3.58    015: 3.6    016: 3.6    
+406864(ioniq5_battery_uds_dump.js): 017: 3.6    018: 3.6    019: 3.6    020: 3.6    021: 3.6    022: 3.6    023: 3.6    024: 3.6    
+406864(ioniq5_battery_uds_dump.js): 025: 3.6    026: 3.6    027: 3.6    028: 3.6    029: 3.6    030: 3.6    031: 3.6    032: 3.6    
+440795(ioniq5_battery_uds_dump.js): Soc: 29.5% Lv: 12V Hv: 648.1V Current: 0A Max regen: 0Kw Max pwr: 0Kw Ign: 0  inv_v: 0 iso_r: 294kOhm
+440796(ioniq5_battery_uds_dump.js):   min/max cell voltage: 3.58/3.6V (84/3) cum energy charge/discharge 24.4/11.4Ah cum current charge/discharge 25.7/18.1Ah
+440796(ioniq5_battery_uds_dump.js):   op time: 3536 min_temp: 50F max_temp: 50F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 50F temp4: 50F
+440796(ioniq5_battery_uds_dump.js):   Relay: 0 RPM 1: 1525 RPM 2: 0 batt fan mod: 0 batt fan speed: 0
+448483(ioniq5_battery_uds_dump.js): cell voltages (v):
+
+448483(ioniq5_battery_uds_dump.js): 065: 3.58    066: 3.6    067: 3.6    068: 3.6    069: 3.6    070: 3.6    071: 3.6    072: 3.6    
+448483(ioniq5_battery_uds_dump.js): 073: 3.6    074: 3.58    075: 3.6    076: 3.6    077: 3.6    078: 3.6    079: 3.58    080: 3.6    
+448483(ioniq5_battery_uds_dump.js): 081: 3.58    082: 3.6    083: 3.6    084: 3.58    085: 3.6    086: 3.6    087: 3.6    088: 3.6    
+448483(ioniq5_battery_uds_dump.js): 089: 3.58    090: 3.6    091: 3.6    092: 3.6    093: 3.6    094: 3.6    095: 3.6    096: 3.6    
+470385(ioniq5_battery_uds_dump.js): cell voltages (v):
+
+470385(ioniq5_battery_uds_dump.js): 129: 3.6    130: 3.6    131: 3.58    132: 3.6    133: 3.6    134: 3.6    135: 3.6    136: 3.6    
+470386(ioniq5_battery_uds_dump.js): 137: 3.6    138: 3.6    139: 3.6    140: 3.6    141: 3.6    142: 3.58    143: 3.6    144: 3.6    
+470386(ioniq5_battery_uds_dump.js): 145: 3.58    146: 3.6    147: 3.6    148: 3.6    149: 3.6    150: 3.6    151: 3.58    152: 3.58    
+470386(ioniq5_battery_uds_dump.js): 153: 3.58    154: 3.6    155: 3.58    156: 3.6    157: 3.6    158: 3.6    159: 3.6    160: 3.6    
+479393(ioniq5_battery_uds_dump.js): cell voltages (v):
+
+479393(ioniq5_battery_uds_dump.js): 001: 3.58    002: 3.6    003: 3.6    004: 3.6    005: 3.6    006: 3.6    007: 3.6    008: 3.6    
+479394(ioniq5_battery_uds_dump.js): 009: 3.6    010: 3.6    011: 3.6    012: 3.58    013: 3.58    014: 3.58    015: 3.6    016: 3.6    
+479394(ioniq5_battery_uds_dump.js): 017: 3.6    018: 3.6    019: 3.6    020: 3.6    021: 3.6    022: 3.6    023: 3.6    024: 3.6    
+479394(ioniq5_battery_uds_dump.js): 025: 3.6    026: 3.6    027: 3.6    028: 3.6    029: 3.6    030: 3.6    031: 3.6    032: 3.6    
+493221(ioniq5_battery_uds_dump.js): Compiling script...
+493221(ioniq5_battery_uds_dump.js): Hyundai/Kia e-GMP Battery data dump
+498070(ioniq5_battery_uds_dump.js): cell voltages (v):
+
+498071(ioniq5_battery_uds_dump.js): 001: 3.6    002: 3.6    003: 3.6    004: 3.6    005: 3.6    006: 3.6    007: 3.6    008: 3.6    
+498071(ioniq5_battery_uds_dump.js): 009: 3.6    010: 3.6    011: 3.6    012: 3.58    013: 3.6    014: 3.58    015: 3.6    016: 3.6    
+498071(ioniq5_battery_uds_dump.js): 017: 3.6    018: 3.6    019: 3.6    020: 3.6    021: 3.6    022: 3.6    023: 3.6    024: 3.6    
+498071(ioniq5_battery_uds_dump.js): 025: 3.6    026: 3.6    027: 3.6    028: 3.6    029: 3.6    030: 3.6    031: 3.6    032: 3.6    
+502452(ioniq5_battery_uds_dump.js): cell voltages (v):
+
+502453(ioniq5_battery_uds_dump.js): 065: 3.58    066: 3.6    067: 3.6    068: 3.58    069: 3.6    070: 3.6    071: 3.58    072: 3.6    
+502453(ioniq5_battery_uds_dump.js): 073: 3.6    074: 3.58    075: 3.6    076: 3.6    077: 3.6    078: 3.6    079: 3.6    080: 3.6    
+502453(ioniq5_battery_uds_dump.js): 081: 3.6    082: 3.6    083: 3.6    084: 3.58    085: 3.6    086: 3.6    087: 3.6    088: 3.6    
+502453(ioniq5_battery_uds_dump.js): 089: 3.58    090: 3.6    091: 3.6    092: 3.6    093: 3.6    094: 3.6    095: 3.6    096: 3.6    
+506882(ioniq5_battery_uds_dump.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F A/C1: 0x 0 A/C2: 0x 0 A/C13 0x 0 batt manage mode: 0x0
+533181(ioniq5_battery_uds_dump.js): cell voltages (v):
+
+533181(ioniq5_battery_uds_dump.js): 001: 3.6    002: 3.6    003: 3.6    004: 3.6    005: 3.6    006: 3.6    007: 3.6    008: 3.6    
+533181(ioniq5_battery_uds_dump.js): 009: 3.6    010: 3.6    011: 3.6    012: 3.58    013: 3.58    014: 3.58    015: 3.6    016: 3.6    
+533181(ioniq5_battery_uds_dump.js): 017: 3.6    018: 3.6    019: 3.6    020: 3.6    021: 3.6    022: 3.6    023: 3.6    024: 3.6    
+533181(ioniq5_battery_uds_dump.js): 025: 3.6    026: 3.6    027: 3.6    028: 3.6    029: 3.6    030: 3.6    031: 3.6    032: 3.6    
+536735(ioniq5_battery_uds_dump.js): Compiling script...
+536735(ioniq5_battery_uds_dump.js): Hyundai/Kia e-GMP Battery data dump
+567610(ioniq5_battery_uds_dump.js): cell voltages (v):
+
+567610(ioniq5_battery_uds_dump.js): 097: 3.60    098: 3.58    099: 3.60    100: 3.58    101: 3.60    102: 3.60    103: 3.60    104: 3.60    
+567610(ioniq5_battery_uds_dump.js): 105: 3.60    106: 3.60    107: 3.60    108: 3.60    109: 3.60    110: 3.58    111: 3.60    112: 3.60    
+567610(ioniq5_battery_uds_dump.js): 113: 3.60    114: 3.60    115: 3.60    116: 3.60    117: 3.60    118: 3.60    119: 3.60    120: 3.60    
+567610(ioniq5_battery_uds_dump.js): 121: 3.60    122: 3.60    123: 3.60    124: 3.60    125: 3.60    126: 3.60    127: 3.60    128: 3.60    
+580202(ioniq5_battery_uds_dump.js): cell voltages (v):
+
+580202(ioniq5_battery_uds_dump.js): 001: 3.58    002: 3.58    003: 3.60    004: 3.60    005: 3.60    006: 3.60    007: 3.60    008: 3.60    
+580202(ioniq5_battery_uds_dump.js): 009: 3.60    010: 3.60    011: 3.60    012: 3.58    013: 3.58    014: 3.58    015: 3.60    016: 3.60    
+580203(ioniq5_battery_uds_dump.js): 017: 3.60    018: 3.60    019: 3.60    020: 3.60    021: 3.60    022: 3.60    023: 3.60    024: 3.60    
+580203(ioniq5_battery_uds_dump.js): 025: 3.60    026: 3.60    027: 3.60    028: 3.60    029: 3.60    030: 3.60    031: 3.60    032: 3.60    
+618137(ioniq5_battery_uds_dump.js): cell voltages (v):
+
+618137(ioniq5_battery_uds_dump.js): 001: 3.58    002: 3.60    003: 3.60    004: 3.60    005: 3.60    006: 3.60    007: 3.60    008: 3.60    
+618137(ioniq5_battery_uds_dump.js): 009: 3.60    010: 3.60    011: 3.60    012: 3.58    013: 3.58    014: 3.58    015: 3.60    016: 3.60    
+618137(ioniq5_battery_uds_dump.js): 017: 3.60    018: 3.60    019: 3.60    020: 3.60    021: 3.60    022: 3.60    023: 3.60    024: 3.60    
+618137(ioniq5_battery_uds_dump.js): 025: 3.60    026: 3.60    027: 3.60    028: 3.60    029: 3.60    030: 3.60    031: 3.60    032: 3.60    
+621986(ioniq5_battery_uds_dump.js): cell voltages (v):
+
+621986(ioniq5_battery_uds_dump.js): 065: 3.58    066: 3.60    067: 3.60    068: 3.60    069: 3.60    070: 3.60    071: 3.60    072: 3.60    
+621987(ioniq5_battery_uds_dump.js): 073: 3.60    074: 3.60    075: 3.60    076: 3.60    077: 3.60    078: 3.60    079: 3.60    080: 3.60    
+621987(ioniq5_battery_uds_dump.js): 081: 3.60    082: 3.60    083: 3.60    084: 3.58    085: 3.60    086: 3.60    087: 3.60    088: 3.60    
+621987(ioniq5_battery_uds_dump.js): 089: 3.58    090: 3.60    091: 3.60    092: 3.60    093: 3.60    094: 3.60    095: 3.60    096: 3.60    
+638867(ioniq5_battery_uds_dump.js): cell voltages (v):
+
+638867(ioniq5_battery_uds_dump.js): 097: 3.60    098: 3.58    099: 3.60    100: 3.58    101: 3.60    102: 3.60    103: 3.60    104: 3.60    
+638867(ioniq5_battery_uds_dump.js): 105: 3.60    106: 3.60    107: 3.60    108: 3.60    109: 3.60    110: 3.58    111: 3.60    112: 3.60    
+638867(ioniq5_battery_uds_dump.js): 113: 3.60    114: 3.60    115: 3.60    116: 3.60    117: 3.60    118: 3.60    119: 3.60    120: 3.60    
+638867(ioniq5_battery_uds_dump.js): 121: 3.58    122: 3.60    123: 3.60    124: 3.60    125: 3.60    126: 3.60    127: 3.60    128: 3.60    
+659931(ioniq5_battery_uds_dump.js): cell voltages (v):
+
+659932(ioniq5_battery_uds_dump.js): 065: 3.58    066: 3.60    067: 3.60    068: 3.60    069: 3.60    070: 3.60    071: 3.60    072: 3.60    
+659932(ioniq5_battery_uds_dump.js): 073: 3.60    074: 3.58    075: 3.60    076: 3.60    077: 3.60    078: 3.60    079: 3.60    080: 3.60    
+659932(ioniq5_battery_uds_dump.js): 081: 3.60    082: 3.60    083: 3.60    084: 3.58    085: 3.60    086: 3.60    087: 3.60    088: 3.60    
+659932(ioniq5_battery_uds_dump.js): 089: 3.58    090: 3.60    091: 3.60    092: 3.60    093: 3.60    094: 3.60    095: 3.60    096: 3.60    
+663915(ioniq5_battery_uds_dump.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F A/C1: 0x 0 A/C2: 0x 0 A/C13 0x 0 batt manage mode: 0x0
+676599(ioniq5_battery_uds_dump.js): cell voltages (v):
+
+676599(ioniq5_battery_uds_dump.js): 129: 3.60    130: 3.60    131: 3.58    132: 3.60    133: 3.58    134: 3.60    135: 3.60    136: 3.60    
+676600(ioniq5_battery_uds_dump.js): 137: 3.60    138: 3.60    139: 3.60    140: 3.60    141: 3.60    142: 3.58    143: 3.60    144: 3.60    
+676600(ioniq5_battery_uds_dump.js): 145: 3.58    146: 3.60    147: 3.60    148: 3.60    149: 3.60    150: 3.60    151: 3.58    152: 3.58    
+676600(ioniq5_battery_uds_dump.js): 153: 3.58    154: 3.60    155: 3.58    156: 3.60    157: 3.60    158: 3.60    159: 3.60    160: 3.60    
+688728(ioniq5_battery_uds_dump.js): cell voltages (v):
+
+688728(ioniq5_battery_uds_dump.js): 033: 3.60    034: 3.60    035: 3.60    036: 3.58    037: 3.60    038: 3.60    039: 3.58    040: 3.60    
+688728(ioniq5_battery_uds_dump.js): 041: 3.60    042: 3.60    043: 3.60    044: 3.60    045: 3.60    046: 3.60    047: 3.58    048: 3.58    
+688728(ioniq5_battery_uds_dump.js): 049: 3.60    050: 3.60    051: 3.60    052: 3.60    053: 3.60    054: 3.60    055: 3.60    056: 3.60    
+688728(ioniq5_battery_uds_dump.js): 057: 3.60    058: 3.60    059: 3.60    060: 3.58    061: 3.60    062: 3.58    063: 3.60    064: 3.60    
+709083(ioniq5_battery_uds_dump.js): cell voltages (v):
+
+709083(ioniq5_battery_uds_dump.js): 097: 3.60    098: 3.58    099: 3.60    100: 3.58    101: 3.60    102: 3.60    103: 3.60    104: 3.60    
+709083(ioniq5_battery_uds_dump.js): 105: 3.60    106: 3.60    107: 3.60    108: 3.60    109: 3.60    110: 3.60    111: 3.60    112: 3.60    
+709083(ioniq5_battery_uds_dump.js): 113: 3.60    114: 3.60    115: 3.60    116: 3.60    117: 3.60    118: 3.60    119: 3.60    120: 3.60    
+709083(ioniq5_battery_uds_dump.js): 121: 3.60    122: 3.60    123: 3.60    124: 3.60    125: 3.60    126: 3.60    127: 3.60    128: 3.60    
+717425(ioniq5_battery_uds_dump.js): Soc: 29.5% Lv: 12.1V Hv: 648V Current: 0A Max regen: 0Kw Max pwr: 0Kw Ign: 0  inv_v: 0 iso_r: 294kOhm
+717425(ioniq5_battery_uds_dump.js):   min/max cell voltage: 3.58/3.6V (84/10) cum energy charge/discharge 24.4/11.4Ah cum current charge/discharge 25.7/18.1Ah
+717425(ioniq5_battery_uds_dump.js):   op time: 3566 min_temp: 50F max_temp: 50F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 50F temp4: 50F
+717425(ioniq5_battery_uds_dump.js):   Relay: 0 RPM 1: 1525 RPM 2: 0 batt fan mod: 0 batt fan speed: 0
+780355(ioniq5_battery_uds_dump.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F A/C1: 0x 0 A/C2: 0x 0 A/C13 0x 0 batt manage mode: 0x0
+797570(ioniq5_battery_uds_dump.js): cell voltages (v):
+
+797570(ioniq5_battery_uds_dump.js): 161: 3.60    162: 3.60    163: 3.60    164: 3.60    165: 3.60    166: 3.60    167: 3.60    168: 3.60    
+797571(ioniq5_battery_uds_dump.js): 169: 3.58    170: 3.60    171: 3.60    172: 3.60    173: 3.60    174: 3.60    175: 3.58    176: 3.60    
+797571(ioniq5_battery_uds_dump.js): 177: 3.58    178: 3.60    179: 3.60    180: 3.58    181: 0.02    182: 0000    183: 0000    184: 0000    
+797571(ioniq5_battery_uds_dump.js): 185: 0000    186: 0.02    187: 0000    188: 0.02    189: 0000    190: 0.08    191: 0.08    192: 0000    
+819008(ioniq5_battery_uds_dump.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F A/C1: 0x 0 A/C2: 0x 0 A/C13 0x 0 batt manage mode: 0x0
+839599(ioniq5_battery_uds_dump.js): cell voltages (v):
+
+839599(ioniq5_battery_uds_dump.js): 001: 3.60    002: 3.60    003: 3.60    004: 3.60    005: 3.60    006: 3.60    007: 3.60    008: 3.60    
+839599(ioniq5_battery_uds_dump.js): 009: 3.60    010: 3.60    011: 3.60    012: 3.58    013: 3.60    014: 3.58    015: 3.60    016: 3.60    
+839599(ioniq5_battery_uds_dump.js): 017: 3.60    018: 3.60    019: 3.60    020: 3.60    021: 3.60    022: 3.60    023: 3.60    024: 3.60    
+839599(ioniq5_battery_uds_dump.js): 025: 3.60    026: 3.60    027: 3.60    028: 3.60    029: 3.60    030: 3.60    031: 3.60    032: 3.60    
+851285(ioniq5_battery_uds_dump.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F A/C1: 0x 0 A/C2: 0x 0 A/C13 0x 0 batt manage mode: 0x0
+868153(ioniq5_battery_uds_dump.js): cell voltages (v):
+
+868154(ioniq5_battery_uds_dump.js): 161: 3.60    162: 3.60    163: 3.60    164: 3.60    165: 3.60    166: 3.60    167: 3.60    168: 3.60    
+868154(ioniq5_battery_uds_dump.js): 169: 3.60    170: 3.60    171: 3.60    172: 3.60    173: 3.60    174: 3.60    175: 3.60    176: 3.60    
+868154(ioniq5_battery_uds_dump.js): 177: 3.58    178: 3.60    179: 3.60    180: 3.60    181: 0.02    182: 0000    183: 0000    184: 0000    
+868154(ioniq5_battery_uds_dump.js): 185: 0000    186: 0.02    187: 0000    188: 0.02    189: 0000    190: 0.02    191: 0.02    192: 0000    
+876340(ioniq5_battery_uds_dump.js): cell voltages (v):
+
+876340(ioniq5_battery_uds_dump.js): 033: 3.60    034: 3.60    035: 3.60    036: 3.58    037: 3.60    038: 3.60    039: 3.58    040: 3.60    
+876340(ioniq5_battery_uds_dump.js): 041: 3.60    042: 3.60    043: 3.60    044: 3.60    045: 3.60    046: 3.60    047: 3.58    048: 3.60    
+876340(ioniq5_battery_uds_dump.js): 049: 3.60    050: 3.60    051: 3.60    052: 3.60    053: 3.60    054: 3.60    055: 3.60    056: 3.60    
+876341(ioniq5_battery_uds_dump.js): 057: 3.60    058: 3.60    059: 3.60    060: 3.58    061: 3.60    062: 3.58    063: 3.60    064: 3.60    
+930765(ioniq5_battery_uds_dump.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F A/C1: 0x 0 A/C2: 0x 0 A/C13 0x 0 batt manage mode: 0x0
+939439(ioniq5_battery_uds_dump.js): cell voltages (v):
+
+939439(ioniq5_battery_uds_dump.js): 097: 3.60    098: 3.58    099: 3.60    100: 3.58    101: 3.60    102: 3.60    103: 3.60    104: 3.60    
+939440(ioniq5_battery_uds_dump.js): 105: 3.60    106: 3.60    107: 3.60    108: 3.60    109: 3.60    110: 3.58    111: 3.60    112: 3.60    
+939440(ioniq5_battery_uds_dump.js): 113: 3.60    114: 3.60    115: 3.60    116: 3.60    117: 3.60    118: 3.60    119: 3.60    120: 3.60    
+939440(ioniq5_battery_uds_dump.js): 121: 3.60    122: 3.60    123: 3.60    124: 3.60    125: 3.60    126: 3.60    127: 3.60    128: 3.60    
+968439(ioniq5_battery_uds_dump.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F A/C1: 0x 0 A/C2: 0x 0 A/C13 0x 0 batt manage mode: 0x0
+1010228(ioniq5_battery_uds_dump.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F A/C1: 0x 0 A/C2: 0x 0 A/C13 0x 0 batt manage mode: 0x0
+1022329(ioniq5_battery_uds_dump.js): cell voltages (v):
+
+1022330(ioniq5_battery_uds_dump.js): 097: 3.60    098: 3.58    099: 3.60    100: 3.58    101: 3.60    102: 3.60    103: 3.60    104: 3.60    
+1022330(ioniq5_battery_uds_dump.js): 105: 3.60    106: 3.60    107: 3.60    108: 3.60    109: 3.60    110: 3.60    111: 3.60    112: 3.60    
+1022330(ioniq5_battery_uds_dump.js): 113: 3.60    114: 3.60    115: 3.60    116: 3.60    117: 3.60    118: 3.60    119: 3.60    120: 3.60    
+1022330(ioniq5_battery_uds_dump.js): 121: 3.58    122: 3.60    123: 3.60    124: 3.60    125: 3.60    126: 3.60    127: 3.60    128: 3.60    
+1038973(ioniq5_battery_uds_dump.js): cell voltages (v):
+
+1038973(ioniq5_battery_uds_dump.js): 033: 3.60    034: 3.60    035: 3.60    036: 3.58    037: 3.60    038: 3.60    039: 3.58    040: 3.60    
+1038973(ioniq5_battery_uds_dump.js): 041: 3.60    042: 3.60    043: 3.60    044: 3.60    045: 3.60    046: 3.60    047: 3.58    048: 3.60    
+1038974(ioniq5_battery_uds_dump.js): 049: 3.60    050: 3.60    051: 3.60    052: 3.60    053: 3.60    054: 3.60    055: 3.60    056: 3.60    
+1038974(ioniq5_battery_uds_dump.js): 057: 3.60    058: 3.60    059: 3.60    060: 3.58    061: 3.60    062: 3.60    063: 3.60    064: 3.60    
+1059248(ioniq5_battery_uds_dump.js): cell voltages (v):
+
+1059248(ioniq5_battery_uds_dump.js): 097: 3.60    098: 3.58    099: 3.60    100: 3.58    101: 3.60    102: 3.60    103: 3.60    104: 3.60    
+1059248(ioniq5_battery_uds_dump.js): 105: 3.60    106: 3.60    107: 3.60    108: 3.60    109: 3.60    110: 3.58    111: 3.60    112: 3.60    
+1059248(ioniq5_battery_uds_dump.js): 113: 3.60    114: 3.60    115: 3.60    116: 3.60    117: 3.60    118: 3.60    119: 3.60    120: 3.60    
+1059248(ioniq5_battery_uds_dump.js): 121: 3.60    122: 3.60    123: 3.60    124: 3.60    125: 3.60    126: 3.60    127: 3.60    128: 3.60    
+1076115(ioniq5_battery_uds_dump.js): cell voltages (v):
+
+1076115(ioniq5_battery_uds_dump.js): 033: 3.60    034: 3.60    035: 3.60    036: 3.58    037: 3.60    038: 3.60    039: 3.58    040: 3.60    
+1076115(ioniq5_battery_uds_dump.js): 041: 3.60    042: 3.60    043: 3.60    044: 3.60    045: 3.60    046: 3.60    047: 3.58    048: 3.60    
+1076116(ioniq5_battery_uds_dump.js): 049: 3.60    050: 3.60    051: 3.60    052: 3.60    053: 3.60    054: 3.60    055: 3.60    056: 3.60    
+1076116(ioniq5_battery_uds_dump.js): 057: 3.60    058: 3.60    059: 3.60    060: 3.58    061: 3.60    062: 3.58    063: 3.60    064: 3.60    
+1101764(ioniq5_battery_uds_dump.js): cell voltages (v):
+
+1101764(ioniq5_battery_uds_dump.js): 097: 3.60    098: 3.58    099: 3.60    100: 3.58    101: 3.60    102: 3.58    103: 3.60    104: 3.60    
+1101764(ioniq5_battery_uds_dump.js): 105: 3.60    106: 3.60    107: 3.60    108: 3.60    109: 3.60    110: 3.58    111: 3.60    112: 3.60    
+1101764(ioniq5_battery_uds_dump.js): 113: 3.60    114: 3.60    115: 3.60    116: 3.60    117: 3.60    118: 3.60    119: 3.60    120: 3.60    
+1101764(ioniq5_battery_uds_dump.js): 121: 3.58    122: 3.60    123: 3.60    124: 3.60    125: 3.60    126: 3.60    127: 3.60    128: 3.60    
+1130430(ioniq5_battery_uds_dump.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F A/C1: 0x 0 A/C2: 0x 0 A/C13 0x 0 batt manage mode: 0x0
+1155525(ioniq5_battery_uds_dump.js): Soc: 29.5% Lv: 12V Hv: 648V Current: 0A Max regen: 0Kw Max pwr: 0Kw Ign: 0  inv_v: 0 iso_r: 294kOhm
+1155525(ioniq5_battery_uds_dump.js):   min/max cell voltage: 3.58/3.6V (84/16) cum energy charge/discharge 24.4/11.4Ah cum current charge/discharge 25.7/18.1Ah
+1155525(ioniq5_battery_uds_dump.js):   op time: 3512 min_temp: 50F max_temp: 50F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 50F temp4: 50F
+1155525(ioniq5_battery_uds_dump.js):   Relay: 0 RPM 1: 1525 RPM 2: 0 batt fan mod: 0 batt fan speed: 0
+1172834(ioniq5_battery_uds_dump.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F A/C1: 0x 0 A/C2: 0x 0 A/C13 0x 0 batt manage mode: 0x0

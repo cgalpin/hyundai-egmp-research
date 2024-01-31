@@ -1,0 +1,1203 @@
+6744(ioniq5_battery_uds_temp.js): Compiling script...
+6747(ioniq5_battery_uds_temp.js): Hyundai/Kia e-GMP Battery temperature dump
+7193(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+7194(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 48.2F inlet_temp: 260.6F temp1: 46.4F temp2: 46.4F temp3: 44.6F temp4: 44.6F
+8016(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+10866(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+10867(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 48.2F inlet_temp: 260.6F temp1: 46.4F temp2: 46.4F temp3: 44.6F temp4: 44.6F
+11617(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+11863(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+12121(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+12121(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 48.2F inlet_temp: 260.6F temp1: 46.4F temp2: 46.4F temp3: 44.6F temp4: 44.6F
+12993(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+13113(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+13368(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+13368(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 48.2F inlet_temp: 260.6F temp1: 46.4F temp2: 46.4F temp3: 44.6F temp4: 44.6F
+17722(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+17873(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+17873(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 48.2F inlet_temp: 260.6F temp1: 46.4F temp2: 46.4F temp3: 44.6F temp4: 44.6F
+21615(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+21868(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+25622(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+25872(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+26123(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+26123(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 48.2F inlet_temp: 260.6F temp1: 46.4F temp2: 46.4F temp3: 44.6F temp4: 44.6F
+37634(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+37885(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+38121(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+38121(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 48.2F inlet_temp: 260.6F temp1: 46.4F temp2: 46.4F temp3: 44.6F temp4: 44.6F
+38965(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+39122(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+39372(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+39372(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 48.2F inlet_temp: 260.6F temp1: 46.4F temp2: 46.4F temp3: 44.6F temp4: 44.6F
+40475(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+48123(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+48371(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+48626(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+48626(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 48.2F inlet_temp: 260.6F temp1: 46.4F temp2: 46.4F temp3: 44.6F temp4: 44.6F
+49658(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+49895(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+50130(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+50130(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 48.2F inlet_temp: 260.6F temp1: 46.4F temp2: 46.4F temp3: 44.6F temp4: 44.6F
+51113(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+51371(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+51620(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+51620(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 48.2F inlet_temp: 260.6F temp1: 46.4F temp2: 46.4F temp3: 44.6F temp4: 44.6F
+55632(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+55865(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+55866(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 48.2F inlet_temp: 260.6F temp1: 46.4F temp2: 46.4F temp3: 44.6F temp4: 44.6F
+70130(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+74625(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+74868(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+75127(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+75127(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 48.2F inlet_temp: 260.6F temp1: 46.4F temp2: 46.4F temp3: 44.6F temp4: 44.6F
+76121(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+76371(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+76623(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+76623(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 48.2F inlet_temp: 260.6F temp1: 46.4F temp2: 46.4F temp3: 44.6F temp4: 44.6F
+77626(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+77876(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+81629(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+85109(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+85110(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 48.2F inlet_temp: 260.6F temp1: 46.4F temp2: 46.4F temp3: 44.6F temp4: 44.6F
+89371(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+89613(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+89877(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+89877(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 48.2F inlet_temp: 260.6F temp1: 46.4F temp2: 46.4F temp3: 44.6F temp4: 44.6F
+96125(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+96376(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+96376(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 48.2F inlet_temp: 260.6F temp1: 46.4F temp2: 46.4F temp3: 44.6F temp4: 44.6F
+97374(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+97629(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+97868(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+97868(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 48.2F inlet_temp: 260.6F temp1: 46.4F temp2: 46.4F temp3: 44.6F temp4: 44.6F
+98872(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+99122(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+99369(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+99369(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 48.2F inlet_temp: 260.6F temp1: 46.4F temp2: 46.4F temp3: 44.6F temp4: 44.6F
+100224(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+100389(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+101363(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+101625(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+101890(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+101890(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 48.2F inlet_temp: 260.6F temp1: 46.4F temp2: 46.4F temp3: 44.6F temp4: 44.6F
+102721(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+102877(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+103127(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+103127(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 48.2F inlet_temp: 260.6F temp1: 46.4F temp2: 46.4F temp3: 44.6F temp4: 44.6F
+108127(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+108127(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 48.2F inlet_temp: 260.6F temp1: 46.4F temp2: 46.4F temp3: 44.6F temp4: 44.6F
+109210(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+109364(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+112621(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+112876(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+113120(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+113121(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 48.2F inlet_temp: 260.6F temp1: 46.4F temp2: 46.4F temp3: 44.6F temp4: 44.6F
+114128(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+114374(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+114630(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+114630(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 48.2F inlet_temp: 260.6F temp1: 46.4F temp2: 46.4F temp3: 44.6F temp4: 44.6F
+115622(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+115871(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+116111(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+116112(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 48.2F inlet_temp: 260.6F temp1: 46.4F temp2: 46.4F temp3: 44.6F temp4: 44.6F
+117123(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+117371(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+117614(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+117615(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 48.2F inlet_temp: 260.6F temp1: 46.4F temp2: 46.4F temp3: 44.6F temp4: 44.6F
+118629(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+118878(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+119129(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+119130(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 48.2F inlet_temp: 260.6F temp1: 46.4F temp2: 46.4F temp3: 44.6F temp4: 44.6F
+120870(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+121124(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+121375(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+121375(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 48.2F inlet_temp: 260.6F temp1: 46.4F temp2: 46.4F temp3: 44.6F temp4: 44.6F
+122366(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+122630(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+122978(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+122978(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 48.2F inlet_temp: 260.6F temp1: 46.4F temp2: 46.4F temp3: 44.6F temp4: 44.6F
+123878(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+124133(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+124377(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+124377(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 48.2F inlet_temp: 260.6F temp1: 46.4F temp2: 46.4F temp3: 44.6F temp4: 44.6F
+125112(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+129623(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+129876(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+130137(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+130137(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 48.2F inlet_temp: 260.6F temp1: 46.4F temp2: 46.4F temp3: 44.6F temp4: 44.6F
+131122(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+131401(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+131630(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+131630(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 48.2F inlet_temp: 260.6F temp1: 46.4F temp2: 46.4F temp3: 44.6F temp4: 44.6F
+132616(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+132876(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+133222(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+133222(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 48.2F inlet_temp: 260.6F temp1: 46.4F temp2: 46.4F temp3: 44.6F temp4: 44.6F
+141126(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+141375(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+141375(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 48.2F inlet_temp: 260.6F temp1: 46.4F temp2: 46.4F temp3: 44.6F temp4: 44.6F
+148622(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+148876(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+148876(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 48.2F inlet_temp: 260.6F temp1: 46.4F temp2: 46.4F temp3: 44.6F temp4: 44.6F
+152629(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+152976(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+153141(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+153142(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 48.2F inlet_temp: 260.6F temp1: 46.4F temp2: 46.4F temp3: 44.6F temp4: 44.6F
+154125(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+154471(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+154626(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+154626(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 48.2F inlet_temp: 260.6F temp1: 46.4F temp2: 46.4F temp3: 44.6F temp4: 44.6F
+156621(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+156871(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+156871(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 48.2F inlet_temp: 260.6F temp1: 46.4F temp2: 46.4F temp3: 44.6F temp4: 44.6F
+161374(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+161623(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+161888(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+161888(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 48.2F inlet_temp: 260.6F temp1: 46.4F temp2: 46.4F temp3: 44.6F temp4: 44.6F
+162875(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+163121(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+163384(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+163384(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 48.2F inlet_temp: 260.6F temp1: 46.4F temp2: 46.4F temp3: 44.6F temp4: 44.6F
+164651(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+164913(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+165152(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+165153(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 48.2F inlet_temp: 260.6F temp1: 46.4F temp2: 46.4F temp3: 44.6F temp4: 44.6F
+166133(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+166377(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+166631(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+166631(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 48.2F inlet_temp: 260.6F temp1: 46.4F temp2: 46.4F temp3: 44.6F temp4: 44.6F
+170491(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+170742(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+170984(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+170985(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 48.2F inlet_temp: 260.6F temp1: 46.4F temp2: 46.4F temp3: 44.6F temp4: 44.6F
+171871(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+172133(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+172375(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+172375(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 48.2F inlet_temp: 260.6F temp1: 46.4F temp2: 46.4F temp3: 44.6F temp4: 44.6F
+173379(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+173632(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+173876(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+173877(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 48.2F inlet_temp: 260.6F temp1: 46.4F temp2: 46.4F temp3: 44.6F temp4: 44.6F
+179247(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+179613(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+179614(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 48.2F inlet_temp: 260.6F temp1: 46.4F temp2: 46.4F temp3: 44.6F temp4: 44.6F
+181317(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+181658(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+181899(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+181899(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 48.2F inlet_temp: 260.6F temp1: 46.4F temp2: 46.4F temp3: 44.6F temp4: 44.6F
+182877(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+183132(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+190222(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+190488(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+190719(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+190720(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 48.2F inlet_temp: 260.6F temp1: 46.4F temp2: 46.4F temp3: 44.6F temp4: 44.6F
+191611(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+191872(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+192130(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+192130(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 48.2F inlet_temp: 260.6F temp1: 46.4F temp2: 46.4F temp3: 44.6F temp4: 44.6F
+193111(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+193377(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+193633(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+193634(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 48.2F inlet_temp: 260.6F temp1: 46.4F temp2: 46.4F temp3: 44.6F temp4: 44.6F
+194612(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+194733(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+194886(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+194887(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 48.2F inlet_temp: 260.6F temp1: 46.4F temp2: 46.4F temp3: 44.6F temp4: 44.6F
+195375(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+195665(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+195666(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 48.2F inlet_temp: 260.6F temp1: 46.4F temp2: 46.4F temp3: 44.6F temp4: 44.6F
+200122(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+200368(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+200625(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+200626(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 48.2F inlet_temp: 260.6F temp1: 46.4F temp2: 46.4F temp3: 44.6F temp4: 44.6F
+204375(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+204629(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+204887(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+204887(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 48.2F inlet_temp: 260.6F temp1: 46.4F temp2: 46.4F temp3: 44.6F temp4: 44.6F
+205865(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+206131(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+206401(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+206401(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 48.2F inlet_temp: 260.6F temp1: 46.4F temp2: 46.4F temp3: 44.6F temp4: 44.6F
+208364(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+212867(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+213114(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+213376(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+213376(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 55.4F inlet_temp: 260.6F temp1: 46.4F temp2: 55.4F temp3: 44.6F temp4: 44.6F
+214373(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+214613(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+214887(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+214888(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 46.4F temp2: 55.4F temp3: 44.6F temp4: 44.6F
+215962(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+216236(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+216473(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+216473(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 46.4F temp2: 57.2F temp3: 44.6F temp4: 44.6F
+217635(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+217877(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+218124(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+218124(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 46.4F temp2: 57.2F temp3: 44.6F temp4: 44.6F
+219121(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+219385(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+219622(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+219622(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 46.4F temp2: 59F temp3: 44.6F temp4: 44.6F
+220624(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+221499(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+221506(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 60.8F inlet_temp: 260.6F temp1: 46.4F temp2: 59F temp3: 44.6F temp4: 44.6F
+222623(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+222872(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+223132(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+223132(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 60.8F inlet_temp: 260.6F temp1: 46.4F temp2: 60.8F temp3: 44.6F temp4: 44.6F
+224120(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+224387(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+226881(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+227120(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+227370(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+227370(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 62.6F inlet_temp: 260.6F temp1: 46.4F temp2: 62.6F temp3: 44.6F temp4: 44.6F
+228369(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+228629(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+228884(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+228884(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 62.6F inlet_temp: 260.6F temp1: 46.4F temp2: 62.6F temp3: 44.6F temp4: 44.6F
+229873(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+230132(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+230375(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+230376(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 62.6F inlet_temp: 260.6F temp1: 46.4F temp2: 62.6F temp3: 44.6F temp4: 44.6F
+231359(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+231624(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+231866(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+231867(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 62.6F inlet_temp: 260.6F temp1: 46.4F temp2: 62.6F temp3: 44.6F temp4: 44.6F
+232859(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+233126(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+233389(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+233389(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 62.6F inlet_temp: 260.6F temp1: 46.4F temp2: 62.6F temp3: 44.6F temp4: 44.6F
+234216(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+234487(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+234871(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+234871(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 64.4F inlet_temp: 260.6F temp1: 46.4F temp2: 64.4F temp3: 44.6F temp4: 44.6F
+235862(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+236151(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+236151(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 64.4F inlet_temp: 260.6F temp1: 46.4F temp2: 64.4F temp3: 44.6F temp4: 44.6F
+236991(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+237257(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+243620(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+243876(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+243876(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 64.4F inlet_temp: 260.6F temp1: 46.4F temp2: 62.6F temp3: 44.6F temp4: 44.6F
+244876(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+245127(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+245397(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+245397(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 64.4F inlet_temp: 260.6F temp1: 46.4F temp2: 62.6F temp3: 44.6F temp4: 44.6F
+246379(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+246624(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+246976(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+246976(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 64.4F inlet_temp: 260.6F temp1: 46.4F temp2: 62.6F temp3: 44.6F temp4: 44.6F
+248628(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+256373(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+256708(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+256961(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+256962(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 62.6F inlet_temp: 260.6F temp1: 46.4F temp2: 60.8F temp3: 44.6F temp4: 44.6F
+257860(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+258128(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+260623(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+260870(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+261113(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+261113(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 62.6F inlet_temp: 260.6F temp1: 46.4F temp2: 60.8F temp3: 44.6F temp4: 44.6F
+263731(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+267121(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+267121(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 62.6F inlet_temp: 260.6F temp1: 46.4F temp2: 60.8F temp3: 44.6F temp4: 44.6F
+268122(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+268369(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+268624(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+268624(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 60.8F inlet_temp: 260.6F temp1: 46.4F temp2: 60.8F temp3: 44.6F temp4: 44.6F
+271125(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+271372(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+271746(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+271746(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 60.8F inlet_temp: 260.6F temp1: 46.4F temp2: 59F temp3: 44.6F temp4: 44.6F
+272871(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+273127(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+273409(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+273409(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 60.8F inlet_temp: 260.6F temp1: 46.4F temp2: 59F temp3: 44.6F temp4: 44.6F
+274372(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+274643(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+274890(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+274890(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 60.8F inlet_temp: 260.6F temp1: 46.4F temp2: 59F temp3: 44.6F temp4: 44.6F
+275876(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+276131(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+276374(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+276374(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 60.8F inlet_temp: 260.6F temp1: 46.4F temp2: 59F temp3: 44.6F temp4: 44.6F
+277366(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+277634(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+277634(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 60.8F inlet_temp: 260.6F temp1: 46.4F temp2: 59F temp3: 44.6F temp4: 44.6F
+281362(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+281622(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+281873(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+281873(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 60.8F inlet_temp: 260.6F temp1: 46.4F temp2: 59F temp3: 44.6F temp4: 44.6F
+282873(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+283138(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+283384(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+283384(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 60.8F inlet_temp: 260.6F temp1: 46.4F temp2: 59F temp3: 44.6F temp4: 44.6F
+284362(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+284630(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+284892(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+284892(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 60.8F inlet_temp: 260.6F temp1: 46.4F temp2: 59F temp3: 44.6F temp4: 44.6F
+285863(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+286142(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+286267(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+286267(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 46.4F temp2: 59F temp3: 44.6F temp4: 44.6F
+286866(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+287124(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+287383(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+287384(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 46.4F temp2: 59F temp3: 44.6F temp4: 44.6F
+288372(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+288659(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+289011(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+289011(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 46.4F temp2: 57.2F temp3: 44.6F temp4: 44.6F
+290112(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+290392(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+290657(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+290657(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 46.4F temp2: 57.2F temp3: 44.6F temp4: 44.6F
+291626(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+291872(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+292122(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+292122(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 46.4F temp2: 57.2F temp3: 44.6F temp4: 44.6F
+295862(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+296134(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+296408(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+296408(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 46.4F temp2: 57.2F temp3: 44.6F temp4: 44.6F
+299620(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+299872(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+300128(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+300128(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 46.4F temp2: 57.2F temp3: 44.6F temp4: 44.6F
+303863(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+304124(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+304457(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+304458(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 46.4F temp2: 57.2F temp3: 44.6F temp4: 44.6F
+305373(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+305623(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+305879(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+305879(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 46.4F temp2: 57.2F temp3: 44.6F temp4: 44.6F
+306867(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+308375(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+308375(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 46.4F temp2: 57.2F temp3: 44.6F temp4: 44.6F
+309372(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+309641(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+316879(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+317127(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+317386(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+317386(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 46.4F temp2: 57.2F temp3: 44.6F temp4: 44.6F
+318366(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+318649(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+318899(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+318899(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 46.4F temp2: 59F temp3: 44.6F temp4: 44.6F
+319868(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+321131(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+321131(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 46.4F temp2: 59F temp3: 44.6F temp4: 44.6F
+324738(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+325015(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+325267(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+325267(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 46.4F temp2: 59F temp3: 44.6F temp4: 44.6F
+326377(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+326634(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+326892(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+326892(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 46.4F temp2: 59F temp3: 44.6F temp4: 44.6F
+327874(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+328131(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+328394(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+328394(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 46.4F temp2: 59F temp3: 44.6F temp4: 44.6F
+329375(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+329644(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+329895(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+329895(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 46.4F temp2: 59F temp3: 44.6F temp4: 44.6F
+330725(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+330897(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+331874(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+332142(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+332402(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+332402(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 46.4F temp2: 59F temp3: 44.6F temp4: 44.6F
+333374(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+333630(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+333972(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+333973(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 46.4F temp2: 59F temp3: 44.6F temp4: 44.6F
+335867(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+336155(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+336510(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+336511(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 51.8F temp2: 59F temp3: 44.6F temp4: 44.6F
+337615(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+337989(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+338244(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+338244(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 53.6F temp2: 59F temp3: 44.6F temp4: 44.6F
+340379(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+343965(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+343966(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 57.2F temp2: 59F temp3: 44.6F temp4: 44.6F
+347875(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+348149(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+348149(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 57.2F temp2: 57.2F temp3: 44.6F temp4: 44.6F
+349129(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+349383(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+349678(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+349678(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 57.2F temp2: 57.2F temp3: 44.6F temp4: 44.6F
+350866(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+351152(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+351426(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+351426(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 57.2F temp2: 57.2F temp3: 44.6F temp4: 44.6F
+352738(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+352991(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+353245(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+353246(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 57.2F temp2: 57.2F temp3: 44.6F temp4: 44.6F
+354221(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+354514(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+354792(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+354793(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 57.2F temp2: 57.2F temp3: 44.6F temp4: 44.6F
+355628(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+355885(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+360485(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+360749(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+361041(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+361041(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 57.2F temp2: 57.2F temp3: 44.6F temp4: 44.6F
+362122(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+362396(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+362659(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+362659(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 57.2F temp2: 57.2F temp3: 44.6F temp4: 44.6F
+363626(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+363884(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+364168(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+364169(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 55.4F temp2: 57.2F temp3: 44.6F temp4: 44.6F
+365370(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+365642(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+365931(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+365931(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 55.4F temp2: 57.2F temp3: 44.6F temp4: 44.6F
+366716(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+366980(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+366980(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 55.4F temp2: 57.2F temp3: 44.6F temp4: 44.6F
+368112(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+368408(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+368700(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+368700(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 55.4F temp2: 57.2F temp3: 44.6F temp4: 44.6F
+369865(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+370167(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+370451(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+370451(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 55.4F temp2: 57.2F temp3: 44.6F temp4: 44.6F
+371629(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+371892(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+372194(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+372194(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 55.4F temp2: 57.2F temp3: 46.4F temp4: 44.6F
+373127(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+373391(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+373660(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+373660(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 55.4F temp2: 57.2F temp3: 44.6F temp4: 44.6F
+374614(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+374887(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+375157(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+375157(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 55.4F temp2: 57.2F temp3: 44.6F temp4: 44.6F
+376385(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+376658(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+376921(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+376921(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 55.4F temp2: 57.2F temp3: 44.6F temp4: 44.6F
+377883(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+378133(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+378428(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+378428(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 55.4F temp2: 55.4F temp3: 44.6F temp4: 44.6F
+379616(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+380380(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+380380(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 55.4F temp2: 55.4F temp3: 44.6F temp4: 44.6F
+384374(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+384636(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+385014(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+385015(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 55.4F temp2: 55.4F temp3: 44.6F temp4: 44.6F
+388881(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+389240(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+389497(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+389497(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 55.4F temp2: 55.4F temp3: 44.6F temp4: 44.6F
+390376(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+390644(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+390902(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+390903(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 55.4F temp2: 55.4F temp3: 44.6F temp4: 44.6F
+391880(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+393876(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+393876(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 55.4F temp2: 55.4F temp3: 44.6F temp4: 44.6F
+394867(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+395154(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+395425(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+395425(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 55.4F temp2: 55.4F temp3: 46.4F temp4: 44.6F
+396379(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+396639(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+399616(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+399884(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+400155(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+400155(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 57.2F temp2: 55.4F temp3: 46.4F temp4: 44.6F
+401120(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+401395(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+401663(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+401663(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 57.2F temp2: 55.4F temp3: 46.4F temp4: 44.6F
+402620(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+402884(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+403158(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+403158(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 57.2F temp2: 55.4F temp3: 46.4F temp4: 44.6F
+415632(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+415896(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+416160(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+416160(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 57.2F temp2: 55.4F temp3: 46.4F temp4: 44.6F
+417378(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+417677(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+417968(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+417968(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 57.2F temp2: 53.6F temp3: 46.4F temp4: 44.6F
+419126(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+419480(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+419793(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+419793(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 57.2F temp2: 53.6F temp3: 46.4F temp4: 44.6F
+420884(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+421154(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+421439(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+421439(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 57.2F temp2: 53.6F temp3: 46.4F temp4: 44.6F
+422722(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+423022(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+424130(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+424397(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+424695(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+424695(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 57.2F temp2: 53.6F temp3: 46.4F temp4: 44.6F
+425868(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+426160(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+426470(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+426470(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 57.2F temp2: 53.6F temp3: 46.4F temp4: 44.6F
+427626(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+427899(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+430116(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+430506(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+430775(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+430775(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 57.2F temp2: 53.6F temp3: 46.4F temp4: 44.6F
+431876(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+432164(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+432435(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+432436(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 55.4F temp2: 53.6F temp3: 46.4F temp4: 44.6F
+433615(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+433912(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+434182(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+434182(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 55.4F temp2: 53.6F temp3: 46.4F temp4: 44.6F
+435136(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+435417(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+435691(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+435691(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 55.4F temp2: 53.6F temp3: 46.4F temp4: 44.6F
+436507(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+436780(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+436780(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 55.4F temp2: 53.6F temp3: 46.4F temp4: 44.6F
+437893(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+438171(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+438460(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+438461(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 55.4F temp2: 53.6F temp3: 46.4F temp4: 44.6F
+439616(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+439901(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+440195(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+440195(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 55.4F temp2: 53.6F temp3: 46.4F temp4: 44.6F
+441373(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+441644(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+441913(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+441913(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 55.4F temp2: 53.6F temp3: 46.4F temp4: 44.6F
+442867(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+443146(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+443432(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+443432(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 55.4F temp2: 53.6F temp3: 46.4F temp4: 44.6F
+444221(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+444484(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+444756(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+444756(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 55.4F temp2: 53.6F temp3: 46.4F temp4: 44.6F
+448879(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+449157(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+449157(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 55.4F temp2: 53.6F temp3: 46.4F temp4: 44.6F
+450136(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+450404(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+450674(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+450674(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 55.4F temp2: 53.6F temp3: 46.4F temp4: 44.6F
+451627(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+451930(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+452259(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+452259(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 55.4F temp2: 53.6F temp3: 46.4F temp4: 44.6F
+453382(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+453659(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+453954(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+453955(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 55.4F temp2: 53.6F temp3: 46.4F temp4: 44.6F
+455134(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+455431(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+455821(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+455821(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 55.4F temp2: 53.6F temp3: 46.4F temp4: 44.6F
+456874(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+457163(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+457163(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 55.4F temp2: 53.6F temp3: 46.4F temp4: 44.6F
+458116(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+458398(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+458681(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+458681(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 55.4F temp2: 53.6F temp3: 46.4F temp4: 44.6F
+459628(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+459939(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+460220(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+460221(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 55.4F temp2: 53.6F temp3: 46.4F temp4: 44.6F
+462865(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+463162(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+463162(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 55.4F temp2: 53.6F temp3: 46.4F temp4: 44.6F
+464127(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+464422(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+464704(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+464704(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 55.4F temp2: 53.6F temp3: 46.4F temp4: 44.6F
+465871(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+466187(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+469878(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+470153(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+470441(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+470441(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 53.6F temp2: 51.8F temp3: 46.4F temp4: 44.6F
+471381(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+471707(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+472004(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+472004(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 53.6F temp2: 51.8F temp3: 46.4F temp4: 44.6F
+473129(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+473417(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+473693(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+473693(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 53.6F temp2: 51.8F temp3: 46.4F temp4: 44.6F
+474877(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+475167(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+475458(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+475458(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 60.8F inlet_temp: 260.6F temp1: 53.6F temp2: 51.8F temp3: 46.4F temp4: 44.6F
+476627(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+476902(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+477876(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+478196(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+478481(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+478481(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 60.8F inlet_temp: 260.6F temp1: 53.6F temp2: 51.8F temp3: 46.4F temp4: 44.6F
+479628(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+479949(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+480237(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+480237(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 62.6F inlet_temp: 260.6F temp1: 53.6F temp2: 51.8F temp3: 46.4F temp4: 44.6F
+481377(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+481660(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+481967(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+481967(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 62.6F inlet_temp: 260.6F temp1: 53.6F temp2: 51.8F temp3: 46.4F temp4: 44.6F
+483132(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+483416(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+485120(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+485413(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+485693(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+485693(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 64.4F inlet_temp: 260.6F temp1: 53.6F temp2: 51.8F temp3: 46.4F temp4: 44.6F
+486867(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+487161(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+487439(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+487439(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 64.4F inlet_temp: 260.6F temp1: 53.6F temp2: 51.8F temp3: 46.4F temp4: 44.6F
+488379(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+488664(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+488959(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+489025(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 64.4F inlet_temp: 260.6F temp1: 53.6F temp2: 51.8F temp3: 46.4F temp4: 44.6F
+490381(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+490807(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+491189(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+491256(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 64.4F inlet_temp: 260.6F temp1: 53.6F temp2: 51.8F temp3: 46.4F temp4: 44.6F
+495734(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+496020(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+496421(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+496490(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 64.4F inlet_temp: 260.6F temp1: 53.6F temp2: 51.8F temp3: 46.4F temp4: 44.6F
+497631(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+498012(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+498298(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+498367(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 64.4F inlet_temp: 260.6F temp1: 53.6F temp2: 51.8F temp3: 46.4F temp4: 44.6F
+499627(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+499921(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+500292(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+500362(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 64.4F inlet_temp: 260.6F temp1: 53.6F temp2: 51.8F temp3: 46.4F temp4: 44.6F
+501631(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+502011(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+502295(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+502366(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 64.4F inlet_temp: 260.6F temp1: 53.6F temp2: 51.8F temp3: 46.4F temp4: 44.6F
+507115(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+507449(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+507519(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 64.4F inlet_temp: 260.6F temp1: 53.6F temp2: 51.8F temp3: 46.4F temp4: 44.6F
+511871(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+512183(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+512741(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+512814(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 64.4F inlet_temp: 260.6F temp1: 53.6F temp2: 51.8F temp3: 46.4F temp4: 44.6F
+513969(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+514265(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+514561(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+514639(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 64.4F inlet_temp: 260.6F temp1: 53.6F temp2: 51.8F temp3: 46.4F temp4: 44.6F
+517719(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+518022(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+518417(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+518487(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 64.4F inlet_temp: 260.6F temp1: 51.8F temp2: 51.8F temp3: 46.4F temp4: 44.6F
+519616(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+519912(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+520293(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+520367(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 64.4F inlet_temp: 260.6F temp1: 51.8F temp2: 51.8F temp3: 46.4F temp4: 44.6F
+521368(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+521661(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+522036(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+522107(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 64.4F inlet_temp: 260.6F temp1: 51.8F temp2: 51.8F temp3: 46.4F temp4: 44.6F
+523221(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+523537(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+523933(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+524008(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 64.4F inlet_temp: 260.6F temp1: 51.8F temp2: 51.8F temp3: 46.4F temp4: 44.6F
+525117(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+525447(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+525866(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+525940(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 64.4F inlet_temp: 260.6F temp1: 51.8F temp2: 51.8F temp3: 46.4F temp4: 44.6F
+526743(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+527036(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+527448(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+527522(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 64.4F inlet_temp: 260.6F temp1: 51.8F temp2: 51.8F temp3: 46.4F temp4: 44.6F
+528633(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+529058(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+529473(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+529546(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 64.4F inlet_temp: 260.6F temp1: 51.8F temp2: 51.8F temp3: 46.4F temp4: 44.6F
+530631(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+531028(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+531462(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+531536(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 64.4F inlet_temp: 260.6F temp1: 51.8F temp2: 51.8F temp3: 46.4F temp4: 44.6F
+532717(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+533003(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+533206(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+533279(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 64.4F inlet_temp: 260.6F temp1: 51.8F temp2: 51.8F temp3: 46.4F temp4: 44.6F
+534375(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+534680(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+535067(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+535143(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 64.4F inlet_temp: 260.6F temp1: 51.8F temp2: 51.8F temp3: 46.4F temp4: 44.6F
+536367(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+536669(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+537054(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+537128(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 64.4F inlet_temp: 260.6F temp1: 51.8F temp2: 51.8F temp3: 46.4F temp4: 44.6F
+538123(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+538432(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+538941(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+539034(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 64.4F inlet_temp: 260.6F temp1: 51.8F temp2: 51.8F temp3: 46.4F temp4: 44.6F
+540213(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+540507(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+540714(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+540791(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 64.4F inlet_temp: 260.6F temp1: 51.8F temp2: 51.8F temp3: 46.4F temp4: 44.6F
+541879(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+542290(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+542729(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+542806(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 64.4F inlet_temp: 260.6F temp1: 51.8F temp2: 51.8F temp3: 46.4F temp4: 44.6F
+544118(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+544425(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+544849(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+544926(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 64.4F inlet_temp: 260.6F temp1: 51.8F temp2: 51.8F temp3: 46.4F temp4: 44.6F
+545973(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+546269(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+546353(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 64.4F inlet_temp: 260.6F temp1: 51.8F temp2: 51.8F temp3: 46.4F temp4: 44.6F
+547473(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+547809(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+548226(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+548303(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 64.4F inlet_temp: 260.6F temp1: 51.8F temp2: 51.8F temp3: 46.4F temp4: 44.6F
+549631(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+550052(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+550464(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+550543(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 64.4F inlet_temp: 260.6F temp1: 51.8F temp2: 51.8F temp3: 46.4F temp4: 44.6F
+551632(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+552009(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+552333(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+552412(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 64.4F inlet_temp: 260.6F temp1: 51.8F temp2: 51.8F temp3: 46.4F temp4: 44.6F
+553466(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+553880(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+554276(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+554356(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 64.4F inlet_temp: 260.6F temp1: 51.8F temp2: 51.8F temp3: 46.4F temp4: 44.6F
+555371(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+555712(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+556131(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+556217(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 62.6F inlet_temp: 260.6F temp1: 51.8F temp2: 51.8F temp3: 46.4F temp4: 44.6F
+557380(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+557809(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+558229(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+558310(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 62.6F inlet_temp: 260.6F temp1: 51.8F temp2: 51.8F temp3: 46.4F temp4: 44.6F
+561365(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+561694(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+561789(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 62.6F inlet_temp: 260.6F temp1: 51.8F temp2: 51.8F temp3: 46.4F temp4: 44.6F
+563124(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+563528(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+563940(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+564022(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 62.6F inlet_temp: 260.6F temp1: 51.8F temp2: 51.8F temp3: 46.4F temp4: 44.6F
+567620(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+568046(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+568129(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 64.4F inlet_temp: 260.6F temp1: 51.8F temp2: 51.8F temp3: 46.4F temp4: 44.6F
+569385(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+569678(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+576634(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+577032(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+577475(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+577558(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 64.4F inlet_temp: 260.6F temp1: 51.8F temp2: 51.8F temp3: 46.4F temp4: 44.6F
+578720(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+579022(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+583381(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+583768(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+584108(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+584195(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 64.4F inlet_temp: 260.6F temp1: 51.8F temp2: 51.8F temp3: 46.4F temp4: 44.6F
+585386(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+585788(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+586206(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+586290(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 64.4F inlet_temp: 260.6F temp1: 51.8F temp2: 51.8F temp3: 46.4F temp4: 44.6F
+587383(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+587779(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+588196(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+588279(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 64.4F inlet_temp: 260.6F temp1: 51.8F temp2: 51.8F temp3: 46.4F temp4: 44.6F
+589636(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+590033(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+590447(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+590531(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 64.4F inlet_temp: 260.6F temp1: 51.8F temp2: 51.8F temp3: 46.4F temp4: 44.6F
+591624(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+597128(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+597477(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+598037(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+598122(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 64.4F inlet_temp: 260.6F temp1: 50F temp2: 51.8F temp3: 46.4F temp4: 44.6F
+599383(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+599778(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+600230(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+600332(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 64.4F inlet_temp: 260.6F temp1: 50F temp2: 51.8F temp3: 46.4F temp4: 44.6F
+601384(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+601802(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+602223(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+602307(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 64.4F inlet_temp: 260.6F temp1: 50F temp2: 51.8F temp3: 48.2F temp4: 44.6F
+603727(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+604043(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+604462(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+604548(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 64.4F inlet_temp: 260.6F temp1: 50F temp2: 51.8F temp3: 51.8F temp4: 44.6F
+605882(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+606071(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+606421(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+606507(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 62.6F inlet_temp: 260.6F temp1: 50F temp2: 51.8F temp3: 53.6F temp4: 44.6F
+607381(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+607801(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+608267(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+608352(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 62.6F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 55.4F temp4: 44.6F
+609381(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+609765(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+613629(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+614016(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+614332(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+614421(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 62.6F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 55.4F temp4: 44.6F
+615732(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+616053(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+616472(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+616557(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 62.6F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 55.4F temp4: 44.6F
+617617(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+617941(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+618376(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+618463(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 62.6F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 55.4F temp4: 44.6F
+619722(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+620030(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+620449(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+620540(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 62.6F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 55.4F temp4: 44.6F
+621619(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+621969(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+622065(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 62.6F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 55.4F temp4: 44.6F
+623218(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+623516(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+623823(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+623911(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 62.6F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 55.4F temp4: 44.6F
+627373(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+627695(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+628122(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+628212(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 60.8F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 55.4F temp4: 44.6F
+632132(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+632643(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+632731(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 60.8F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 55.4F temp4: 50F
+633720(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+634036(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+634478(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+634566(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 60.8F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 55.4F temp4: 51.8F
+635622(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+635964(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+636434(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+636523(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 60.8F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 55.4F temp4: 53.6F
+637883(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+638292(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+638750(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+638841(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 60.8F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 55.4F temp4: 53.6F
+640371(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+640695(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+640786(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 60.8F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 55.4F temp4: 53.6F
+642122(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+642578(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+643150(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+643240(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 60.8F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 55.4F temp4: 53.6F
+644373(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+644785(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+645220(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+645313(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 60.8F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 55.4F temp4: 53.6F
+646384(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+646784(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+647201(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+647293(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 55.4F temp4: 53.6F
+648727(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+649081(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+649194(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 55.4F temp4: 53.6F
+653748(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+654108(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+654201(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 55.4F temp4: 53.6F
+655383(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+655805(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+656359(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+656459(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 53.6F temp4: 53.6F
+657877(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+658245(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+662874(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+663214(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+663656(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+663750(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 53.6F temp4: 53.6F
+664879(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+665231(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+665673(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+665766(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 53.6F temp4: 51.8F
+667008(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+667254(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+667712(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+667806(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 53.6F temp4: 51.8F
+670621(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+670970(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+671409(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+671502(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 53.6F temp4: 51.8F
+672726(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+673055(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+673517(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+673610(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 53.6F temp4: 51.8F
+674742(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+675071(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+675514(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+675609(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 53.6F temp4: 51.8F
+676638(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+677059(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+677515(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+677609(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 53.6F temp4: 51.8F
+678624(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+678965(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+679461(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+679557(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 53.6F temp4: 51.8F
+680376(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+680709(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+681156(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+681252(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 53.6F temp4: 51.8F
+682373(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+682802(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+683269(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+683368(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 53.6F temp4: 51.8F
+684734(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+685167(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+685579(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+685678(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 53.6F temp4: 51.8F
+686876(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+687206(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+687622(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+687724(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 53.6F temp4: 51.8F
+693122(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+693220(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 55.4F temp4: 51.8F
+694390(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+694820(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+695257(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+695357(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 55.4F temp4: 51.8F
+696384(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+696807(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+697208(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+697331(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 55.4F temp4: 51.8F
+698387(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+698738(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+699194(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+699295(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 55.4F temp4: 51.8F
+700484(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+700827(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+701302(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+701399(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 55.4F temp4: 51.8F
+702635(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+703081(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+703526(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+703626(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 55.4F temp4: 51.8F
+708876(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+709214(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+709659(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+709761(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 55.4F temp4: 51.8F
+711002(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+711239(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+711704(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+711803(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 55.4F temp4: 51.8F
+713123(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+713537(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+714002(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+714104(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 55.4F temp4: 51.8F
+715137(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+715564(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+716007(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+716109(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 55.4F temp4: 51.8F
+717139(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+717495(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 35.6F
+717825(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+717929(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 55.4F temp4: 51.8F
+722885(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+723415(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F
+723868(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+723969(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 55.4F temp4: 51.8F
+725125(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+725473(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F
+725976(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+726079(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 55.4F temp4: 51.8F
+727132(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+727555(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F
+728010(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+728133(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 55.4F temp4: 51.8F
+731377(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+731746(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F
+732245(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+732346(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 55.4F temp4: 53.6F
+733625(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+734097(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F
+734547(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+734650(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 55.4F temp4: 53.6F
+735885(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+736306(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F
+736762(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+736867(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 55.4F temp4: 53.6F
+738152(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+738646(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F
+738991(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+739094(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 55.4F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 55.4F temp4: 53.6F
+740390(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+740872(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F
+741217(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+741324(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 55.4F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 55.4F temp4: 53.6F
+742375(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+751374(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+751785(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F
+752222(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+752325(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 55.4F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 53.6F temp4: 53.6F
+753374(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+753832(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F
+757873(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+758302(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F
+758793(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+758896(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 55.4F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 53.6F temp4: 53.6F
+760126(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+760561(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F
+761015(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+761120(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 55.4F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 53.6F temp4: 53.6F
+762374(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+762803(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F
+763401(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+763506(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 55.4F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 53.6F temp4: 53.6F
+765475(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F
+765799(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+765904(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 55.4F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 53.6F temp4: 53.6F
+767138(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+770721(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+770829(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 53.6F temp4: 53.6F
+772132(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+772591(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F
+773055(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+773165(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 53.6F temp4: 53.6F
+774376(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+774803(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F
+775250(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+775357(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 53.6F temp4: 53.6F
+776488(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+776876(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F
+777376(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+777488(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 53.6F temp4: 53.6F
+778751(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+778995(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F
+779461(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+779569(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 53.6F temp4: 53.6F
+780639(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+781068(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F
+781525(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+781632(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 53.6F temp4: 53.6F
+782730(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F
+783070(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+783179(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 48.2F temp2: 50F temp3: 53.6F temp4: 53.6F
+784475(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+784813(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F
+785253(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+785361(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 51.8F temp4: 53.6F
+786643(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+787085(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F
+787527(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+787660(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 50F temp2: 50F temp3: 51.8F temp4: 53.6F
+788882(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+790983(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+791090(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 48.2F temp2: 50F temp3: 51.8F temp4: 53.6F
+792392(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+792832(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F
+793274(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+793382(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 48.2F temp2: 50F temp3: 51.8F temp4: 53.6F
+794627(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+795068(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F
+795634(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+795747(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 48.2F temp2: 50F temp3: 51.8F temp4: 53.6F
+797007(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+797247(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F
+797709(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+797823(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 48.2F temp2: 50F temp3: 51.8F temp4: 53.6F
+798889(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+799325(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F
+799816(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+799926(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 48.2F temp2: 50F temp3: 51.8F temp4: 53.6F
+801127(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+801494(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F
+801980(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+802093(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 48.2F temp2: 50F temp3: 51.8F temp4: 53.6F
+803250(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+808625(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+808734(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 48.2F temp2: 50F temp3: 51.8F temp4: 53.6F
+809881(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+810226(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F
+810743(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+810868(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 48.2F temp2: 50F temp3: 51.8F temp4: 53.6F
+811923(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+812267(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F
+812718(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+812830(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 48.2F temp2: 50F temp3: 51.8F temp4: 53.6F
+813976(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+814330(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F
+814837(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+814952(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 48.2F temp2: 50F temp3: 51.8F temp4: 53.6F
+816383(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+816731(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F
+817220(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+817338(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 48.2F temp2: 50F temp3: 51.8F temp4: 53.6F
+818628(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+818981(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F
+820128(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+820484(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F
+821002(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+821118(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 48.2F temp2: 50F temp3: 51.8F temp4: 53.6F
+822526(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+822865(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F
+823406(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+823521(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 48.2F temp2: 50F temp3: 51.8F temp4: 53.6F
+824874(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+825325(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F
+825782(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+825895(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 48.2F temp2: 50F temp3: 51.8F temp4: 53.6F
+827130(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+827662(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F
+828129(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+828244(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 57.2F inlet_temp: 260.6F temp1: 48.2F temp2: 50F temp3: 51.8F temp4: 53.6F
+829627(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F
+830170(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+830283(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 48.2F temp2: 50F temp3: 51.8F temp4: 53.6F
+831375(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+831840(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F
+832357(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+832471(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 48.2F temp2: 50F temp3: 51.8F temp4: 53.6F
+833625(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+833995(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F
+834483(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+834601(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 48.2F temp2: 50F temp3: 51.8F temp4: 51.8F
+835882(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+836327(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F
+836802(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+836924(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 48.2F temp2: 50F temp3: 51.8F temp4: 51.8F
+838478(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+838856(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F
+839327(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+839440(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 48.2F temp2: 50F temp3: 50F temp4: 51.8F
+840629(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+841062(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F
+841508(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+841626(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 48.2F temp2: 50F temp3: 50F temp4: 51.8F
+842631(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+842970(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F
+843353(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+843474(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 48.2F temp2: 50F temp3: 50F temp4: 51.8F
+845057(ioniq5_battery_uds_temp.js): temp x1: 46.4F temp x2: 32F
+845530(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F
+846132(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+846248(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 48.2F temp2: 50F temp3: 50F temp4: 51.8F
+849490(ioniq5_battery_uds_temp.js): coolant temp: 86F temp x3: 406.4F temp 4: 37.4F
+849878(ioniq5_battery_uds_temp.js):  iso_r: 294kOhm
+849997(ioniq5_battery_uds_temp.js):  min_temp: 44.6F max_temp: 59F inlet_temp: 260.6F temp1: 48.2F temp2: 50F temp3: 50F temp4: 51.8F
